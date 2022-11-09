@@ -1,1 +1,8 @@
 This is for learning purpose. Welcome to GITHUB...
+
+I learned given below Git commands
+
+1.Git init
+2.Git add
+3.Git commit
+4.Git push
