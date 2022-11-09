@@ -6,3 +6,6 @@ I learned given below Git commands
 2.Git add
 3.Git commit
 4.Git push
+=======
+please check the grammar mistakes ..
+
